@@ -5,4 +5,5 @@ KYC HANA to midi 컨버터
 
 ## 주의사항 
 [QuickBMS](http://aluigi.altervista.org/quickbms.htm)의 de_lzah.c 소스코드 사용으로 GPL-2.0 license를 따릅니다.
+
 CGO를 사용하기에 CGO 관련 설정이 필요합니다.
